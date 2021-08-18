@@ -15,3 +15,4 @@ public class as9 {
 		int result=valid*45/100;
 		System.out.println(result);
 	}
+}	
